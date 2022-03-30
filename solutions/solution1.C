@@ -44,7 +44,7 @@ void main()
 		     printf("\n");
 
 		  }
-		   printf("matrix 3 \n");
+		   printf("Sum of matrix\n=============================");
 		   printf("________________________\n");
 	       for(i=0;i<3;i++) //For Row
 	      {
